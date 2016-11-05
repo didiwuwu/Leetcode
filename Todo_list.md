@@ -1,14 +1,14 @@
 1. Algorithm:
-    * [] quick sort, merge sort, select sort
-    * [] implement the hashtable 
-    * [] summerize graph questions, understand euler path 
-    * [] 2D dp, stock problem
+    * [ ] quick sort, merge sort, select sort
+    * [ ] implement the hashtable 
+    * [ ] summerize graph questions, understand euler path 
+    * [ ] 2D dp, stock problem
 
 2. Python:
     * [ ]
 
 3. Behavior Question:
-    * [x] project in the resume 
+    * [ ] project in the resume 
 
 4. Design:
     * [ ]
