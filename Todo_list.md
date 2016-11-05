@@ -1,24 +1,17 @@
-1. Design:
-    * [x] class 6 video. 
-    * [ ] Harvard Class video 
-    * [ ] Python OOD 
-    * [x] Operation System Concept 
-    * [ ] CDN
-    * [ ] Graph Storage System
-    * [x] DHT
-    * [x] Map Reduce 
+1. Algorithm:
+    * [] quick sort, merge sort, select sort
+    * [] implement the hashtable 
+    * [] summerize graph questions, understand euler path 
+    * [] 2D dp, stock problem
 
-2. Algorithm:
-    * [x] quick sort, merge sort, select sort
-    * [x] implement the hashtable 
-    * [x] B tree, A grpah algorithm 
-    * [ ] CTCI chapter 16, chapter 17
+2. Python:
+    * [ ]
 
-3. Python basic:
-    * [ ] meta class, object class
-
-4. Behavior Question:
+3. Behavior Question:
     * [x] project in the resume 
+
+4. Design:
+    * [ ]
 
 
 Good Blog to read:
